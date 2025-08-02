@@ -52,3 +52,6 @@ Then open http://127.0.0.1:5000 in your browser.
 | 0–399    | High     | 🔴 Red    |
 | 400–749  | Medium   | 🟡 Yellow |
 | 750–1000 | Low      | 🟢 Green  |
+
+## Author
+Kartik Sharma
